@@ -1,7 +1,7 @@
 # CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
 
 # Name:Prasanna R
-# register number:212222040120
+# Register Number:212222040120
 
 # AIM :
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
