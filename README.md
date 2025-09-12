@@ -39,7 +39,3 @@ Connect to your Instance:
 
  # RESULT
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
-
-
-
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fbc6fee7-8cdb-49a4-a9c0-fdad54819790" />
